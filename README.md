@@ -15,7 +15,7 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 ![Finished App](https://user-images.githubusercontent.com/69623904/168664639-9b0deb66-0ce9-415a-959f-d8a1f93575fc.gif)
 
 
-## What is going inside brain
+## What is going inside my brain
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
